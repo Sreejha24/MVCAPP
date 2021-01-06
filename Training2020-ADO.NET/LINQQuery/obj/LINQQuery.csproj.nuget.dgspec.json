@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\192.168.50.220\\Freshers2020-Trainees\\C#\\Projects\\Training2020-ADO.NET\\LINQQuery\\LINQQuery.csproj": {}
+  },
+  "projects": {
+    "\\\\192.168.50.220\\Freshers2020-Trainees\\C#\\Projects\\Training2020-ADO.NET\\LINQQuery\\LINQQuery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\192.168.50.220\\Freshers2020-Trainees\\C#\\Projects\\Training2020-ADO.NET\\LINQQuery\\LINQQuery.csproj",
+        "projectName": "LINQQuery",
+        "projectPath": "\\\\192.168.50.220\\Freshers2020-Trainees\\C#\\Projects\\Training2020-ADO.NET\\LINQQuery\\LINQQuery.csproj",
+        "packagesPath": "C:\\Users\\sprathipati\\.nuget\\packages\\",
+        "outputPath": "\\\\192.168.50.220\\Freshers2020-Trainees\\C#\\Projects\\Training2020-ADO.NET\\LINQQuery\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sprathipati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.IdentityModel.Protocols": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
